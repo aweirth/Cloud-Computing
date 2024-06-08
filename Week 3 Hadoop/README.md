@@ -58,4 +58,4 @@ So I used:
 docker exec -it docker-hadoop-namenode-1 /bin/bash
 ```
 
-### This is where me and Cameron ran into the problem with the Apple chips and could not finish.
+### This is where me and Cameron ran into the problem with the Apple chips and could not finish. The node repeatedly kept crashing and restarting.
